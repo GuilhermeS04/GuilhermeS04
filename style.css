@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(0, 0, 0, 0.897);
+    color: rgb(255, 255, 255);
+}
+
+strong{
+    color: rgb(255, 255, 255);
+}
+.meu-botao {
+    color: rgb(17, 0, 255);
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: white;
+    color: rgb(17, 0, 255);
+    text-decoration: none;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
+
+meu-botao:hover {
+background-color: #007bff;
+border-color: #007bff;
+}
+.aba {
+    border: 5px;
+    border-radius: 5px 5px O O;
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: white;
+    border-color: rgb(4, 0, 255);
+    color: rgb(17, 0, 255);
+  ;
+}
