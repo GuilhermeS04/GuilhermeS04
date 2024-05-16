@@ -28,6 +28,10 @@ strong{
     background-color: rgb(218, 218, 218);
     border-color: rgb(4, 0, 255);
     color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-style: italic;
+    
+    
 }
 .TesteDeAbas {
     border: 10px;
@@ -53,3 +57,43 @@ strong{
     margin-left: auto; 
     margin-right: auto;
 }
+
+.TituloContato {
+    text-align: center;
+    border: 10px;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding: 20px;
+    background-color: rgb(218, 218, 218);
+    border-color: rgb(4, 0, 255);
+    color: rgb(0, 0, 0);
+}
+
+.TítuloTelaEntrar{
+    color: white;
+    text-align: center;
+    font-size: 80px;font-style: italic;
+}
+.entrar-html{
+    background-color: black;
+}
+.aba-botao-entrar{
+    color: rgb(0, 0, 0);
+    padding: 20px 30px;
+    background-color: white;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    border: 2px solid #ff000094;
+    border-radius: 5px;
+    margin-right: 500px;
+    margin-left: 500px;
+    text-align: center; 
+    font-size: 40px;
+    
+
+    
+    
+
+
+}
+
